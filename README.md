@@ -4,6 +4,23 @@ This is a desktop application developed using C# and Windows Forms as part of my
 ## Overview
 The application allows users to log in, browse movie options, and interact with a simple ticket booking interface.
 
+## Screenshots
+
+### Login
+![Login](login.png)
+
+### Register
+![Register](register.png)
+
+### Movies
+![Movies](movies.png)
+
+### Seat Selection
+![Seats](seats.png)
+
+### Booking Confirmation
+![Success](success.png)
+
 ## Features
 - User login system
 - Password visibility toggle
